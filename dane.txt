@@ -1,0 +1,12 @@
+PIS;7640854
+KO;6629402	
+Trzecia Droga;3110670	
+Nowa Lewica;1859018	
+Konfederacja;1547364
+Bezpartyjni;401054	
+PJJ;351099	
+Mniejszosc Niemiecka;25778	
+Ruch DiP;24850	
+Normalny Kraj;4606	
+Antypartia;1156	
+RNP;823
